@@ -1,7 +1,4 @@
-baseURL = 'https://zilvinas.github.io'
+baseURL = 'https://itstarfish.github.io/Zilvinas.github.io/public/'
 languageCode = 'en-us'
 title = 'Žilvino tinklapis'
 theme = 'hugo-PaperMod'
-relativeURLs = true
-canonifyURLs = true
-contentDir = "content"
