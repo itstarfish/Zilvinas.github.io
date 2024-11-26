@@ -6,14 +6,26 @@
     <description>Recent content in Posts on Žilvino tinklapis</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 05:34:27 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projektai 2024</title>
-      <link>http://localhost:1313/posts/a/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a/</guid>
-      <description>Projektai 2024</description>
+      <title>1. Projektai 2024</title>
+      <link>http://localhost:1313/posts/projektai/</link>
+      <pubDate>Mon, 25 Nov 2024 05:34:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/projektai/</guid>
+      <description>&lt;p&gt;Pademonstruojame projektai 2024 matais.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2.Projektai 2025 su paveiksleliu</title>
+      <link>http://localhost:1313/posts/projektai2/</link>
+      <pubDate>Mon, 25 Nov 2024 05:34:27 +0200</pubDate>
+      <guid>http://localhost:1313/posts/projektai2/</guid>
+      <description>&lt;p&gt;Pademonstruojame projektai 2024 matais.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://civilrights.org/wp-content/uploads/2024/08/Project2025FeaturedImage.png&#34;/&gt; &lt;figcaption&gt;
+            Projekto paveikslėlis
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
