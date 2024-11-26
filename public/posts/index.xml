@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Žilvino tinklapis</title>
-    <link>http://localhost:1313/Zilvinas.github.io/public/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Žilvino tinklapis</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Nov 2024 05:34:27 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Zilvinas.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Projektai 2024</title>
-      <link>http://localhost:1313/Zilvinas.github.io/public/posts/projektai/</link>
+      <link>http://localhost:1313/posts/projektai/</link>
       <pubDate>Mon, 25 Nov 2024 05:34:27 +0200</pubDate>
-      <guid>http://localhost:1313/Zilvinas.github.io/public/posts/projektai/</guid>
+      <guid>http://localhost:1313/posts/projektai/</guid>
       <description>&lt;p&gt;Pademonstruojame projektai 2024 matais.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2.Projektai 2025 su paveiksleliu</title>
-      <link>http://localhost:1313/Zilvinas.github.io/public/posts/projektai2/</link>
+      <link>http://localhost:1313/posts/projektai2/</link>
       <pubDate>Mon, 25 Nov 2024 05:34:27 +0200</pubDate>
-      <guid>http://localhost:1313/Zilvinas.github.io/public/posts/projektai2/</guid>
+      <guid>http://localhost:1313/posts/projektai2/</guid>
       <description>&lt;p&gt;Pademonstruojame projektai 2024 matais.&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;https://civilrights.org/wp-content/uploads/2024/08/Project2025FeaturedImage.png&#34;/&gt; &lt;figcaption&gt;
